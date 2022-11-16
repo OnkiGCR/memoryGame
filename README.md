@@ -1,3 +1,3 @@
 # memoryGame
 oi togtoolt chin hr yumbde
-click the link
+ene link deer dar: https://onkigcr.github.io/memoryGame/
